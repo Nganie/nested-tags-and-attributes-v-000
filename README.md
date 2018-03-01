@@ -6,7 +6,7 @@ Explanation of content.
 
 Tags can be nested as demonstrated in the navigation snippet below.
 
-```html
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -31,7 +31,6 @@ Tags can be nested as demonstrated in the navigation snippet below.
     </header>
   </body>
 </html>
-```
 
 Keeping your HTML well indented so that every tag and "level" of nesting is
 aligned will make your code easier to read and maintain. Its aesthetics, how it
